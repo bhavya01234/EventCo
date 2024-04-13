@@ -4,7 +4,7 @@ import { Link } from "react-scroll";
 const HeroSection = () => {
   return (
     <section className="hero">
-      <img src="/restaurant.jpg" alt="restaurant" />
+      <img src="/new_rest.jpg" alt="restaurant" />
       <div className="item">
         <h3>Dream Maker</h3>
         <div>
